@@ -1,16 +1,31 @@
-## Hi there 👋
+# Caio Gonzaga
 
-<!--
-**caiogonzagasm/caiogonzagasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end.
 
-Here are some ideas to get you started:
+Desenvolvo projetos com JavaScript, Node.js, Express, SQL e APIs REST, buscando evoluir na construção de aplicações back-end e boas práticas de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- JavaScript
+- Node.js
+- Express
+- SQLite / SQL
+- Git e GitHub
+- APIs REST
+
+## Projeto em destaque
+
+### Help Desk
+
+API e interface para gerenciamento de chamados, com autenticação JWT, controle de acesso por usuário e administrador, filtros e histórico de mensagens.
+
+➡️ [Ver projeto](https://github.com/caiogonzagasm/helpdesk-api)
+
+## Atualmente estudando
+
+Java → POO → Spring Boot
+
+## Contato
+
+- LinkedIn: linkedin.com/in/caiogonzaga85
+- Email: caiogonzagasm85@gmail.com
